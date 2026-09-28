@@ -50,7 +50,89 @@ Password Recovery
       ↓
 Verify PDF Access
 
-```text
+```
+---
+
+## 1.Networkwalks Hash Calculator
+
+I used the Networkwalks Hash Calculator to generate and analyze password hashes.
+This helped me understand how passwords can be transformed into hash values and why secure password storage is important.
+
+## Evidence 
+
+
+## 2.Networkwalks Password Cracking Tool
+
+I also used the Networkwalks Password Cracking Tool to practice password-recovery techniques in the authorized internship laboratory environment.
+
+## Evidence
+
+## 3.John the Ripper
+
+I used John the Ripper on Kali Linux for the password-recovery portion of the exercise.
+
+Installed version:
+
+John the Ripper 1.9.0-jumbo-1
+
+## Evidence
+
+## 4.Extracting the PDF Hash
+
+The provided PDF was password protected.I used pdf2john to extract the password hash from the PDF so that John the Ripper could process it.
+
+The tool was located at:
+
+/usr/share/john/pdf2john.pl
+
+## Evidence
+
+## 5.Password Recovery
+
+The extracted hash was supplied to John the Ripper together with a password wordlist.
+John then tested password candidates against the extracted hash.
+
+## Evidence
+
+
+## 6.Recovery Result
+
+After processing the hash,I used John the Ripper to display the recovered password.
+
+## Evidence
+
+## 7.PDF Verification
+
+The recovered password was used to verify access to the protected PDF.
+This confirmed that the password-recovery process was successful.
+
+## Evidence
+
+---
+
+## 🧠 Key Learning Outcomes
+
+Through this exercise,I gained practical experience in:
+
+°Password hashing
+
+°Hash analysis
+
+°Password recovery techniques
+
+°PDF password hash extraction
+
+°John the Ripper
+
+°Wordlist-based password testing
+
+°Secure password practices
+
+°Cybersecurity documentation
+
+
+
+
 
 
 
