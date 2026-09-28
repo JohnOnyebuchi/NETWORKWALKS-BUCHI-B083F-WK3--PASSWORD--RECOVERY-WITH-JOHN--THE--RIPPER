@@ -130,6 +130,16 @@ Through this exercise,I gained practical experience in:
 
 °Cybersecurity documentation
 
+---
+
+## 🔒 Security & Ethics
+
+This exercise was performed as part of an authorized cybersecurity internship laboratory using the provided training materials.
+The techniques demonstrated in this project should only be used against systems,files,and credentials for which explicit authorization has been provided.
+
+---
+## 📊 Tools Summary
+
 
 
 
