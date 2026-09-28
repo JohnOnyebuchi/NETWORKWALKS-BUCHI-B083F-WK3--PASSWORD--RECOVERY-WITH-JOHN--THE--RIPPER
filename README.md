@@ -108,6 +108,8 @@ The tool was located at:
 
 ## Evidence
 
+![](Screenshot-W-PDF2JOHN.png)
+
 ## 5.Password Recovery
 
 The extracted hash was supplied to John the Ripper together with a password wordlist.
