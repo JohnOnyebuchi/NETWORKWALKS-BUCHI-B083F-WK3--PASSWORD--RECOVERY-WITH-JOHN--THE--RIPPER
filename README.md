@@ -141,7 +141,12 @@ After processing the hash,I used John the Ripper to display the recovered passwo
 The recovered password was used to verify access to the protected PDF.
 This confirmed that the password-recovery process was successful.
 
-## Evidence
+## Evidences
+
+![](Screenshot-Access-Input.jpeg)
+
+---
+![](Screenshot-Flag-capture.jpeg)
 
 ---
 
