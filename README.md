@@ -1,4 +1,13 @@
-# Week 3 – Password Recovery & Hash Analysis
+## **Cybersecurity & Ethical Hacking Internship — NetworkWalks**
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Environment](https://img.shields.io/badge/Environment-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Type](https://img.shields.io/badge/Testing%20Type-Authorized%20%26%20Educational-blue?style=for-the-badge)
+
+</div>
+
+
+**Week 3 – Password Recovery & Hash Analysis**
 
 ## 📌 Overview
 
