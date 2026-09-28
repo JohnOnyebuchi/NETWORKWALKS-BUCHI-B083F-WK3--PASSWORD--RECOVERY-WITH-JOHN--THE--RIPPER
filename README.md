@@ -110,6 +110,11 @@ The tool was located at:
 
 ![](Screenshot-W-PDF2JOHN.png)
 
+---
+![](Screenshot-Hash.png)
+
+---
+
 ## 5.Password Recovery
 
 The extracted hash was supplied to John the Ripper together with a password wordlist.
@@ -117,12 +122,19 @@ John then tested password candidates against the extracted hash.
 
 ## Evidence
 
+![](Screenshot-rockyou.png)
+
+---
 
 ## 6.Recovery Result
 
 After processing the hash,I used John the Ripper to display the recovered password.
 
 ## Evidence
+
+![](Screenshot-passworrd-recovery.png)
+
+---
 
 ## 7.PDF Verification
 
