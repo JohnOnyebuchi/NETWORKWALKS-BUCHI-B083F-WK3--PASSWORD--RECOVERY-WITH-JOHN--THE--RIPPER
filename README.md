@@ -68,13 +68,21 @@ I used the Networkwalks Hash Calculator to generate and analyze password hashes.
 This helped me understand how passwords can be transformed into hash values and why secure password storage is important.
 
 ## Evidence 
+![](Screenshot-HashCal.jpeg)
 
+---
 
 ## 2.Networkwalks Password Cracking Tool
 
 I also used the Networkwalks Password Cracking Tool to practice password-recovery techniques in the authorized internship laboratory environment.
 
 ## Evidence
+![](Screenshot-PasswordCracker.jpeg)
+
+---
+
+![](Screenshot-Password-Recovery.jpeg)
+
 
 ## 3.John the Ripper
 
