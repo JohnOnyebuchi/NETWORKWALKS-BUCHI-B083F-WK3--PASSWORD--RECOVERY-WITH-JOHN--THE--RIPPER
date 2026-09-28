@@ -175,6 +175,19 @@ Working with Networkwalks'security tools and John the Ripper strengthened my und
 
 **Cybersecurity is not just about knowing the tools. It's about understanding the problem the tool is solving.**
 
+## 👤 Author
+
+**Sunday John Onyebuchi**
+
+Cybersecurity Professional
+
+LinkedIn:https://www.linkedin.com/in/john-onyebuchi-7324223bb?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 03 | **Project:** Password Security, Hashing & Password Recovery  | **Repository:** GitHub
 
 
 
