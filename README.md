@@ -94,6 +94,10 @@ John the Ripper 1.9.0-jumbo-1
 
 ## Evidence
 
+![](Screenshot-JTR-Version.png)
+
+---
+
 ## 4.Extracting the PDF Hash
 
 The provided PDF was password protected.I used pdf2john to extract the password hash from the PDF so that John the Ripper could process it.
